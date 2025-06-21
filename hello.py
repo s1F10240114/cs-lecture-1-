@@ -3,3 +3,9 @@ def hello(n):
         print("Hello new world")
 
 hello(5)
+
+def goodbye():
+    print('Goodbye old world')
+
+hello(5)
+goodbye()
